@@ -12,6 +12,13 @@
 | ④ | [product/04_profile_booking_checklist.md](product/04_profile_booking_checklist.md) | プロフィール&予約導線チェックリスト |
 | ⑤ | [product/05_usage_guide.md](product/05_usage_guide.md) | 使い方ガイド(note販売ページ用記事) |
 
+## 販売・改善関連ドキュメント
+
+| ファイル | 内容 |
+|---|---|
+| [marketing/note_gumroad_listing.md](marketing/note_gumroad_listing.md) | note / Gumroad 出品用の商品説明文・タイトル案・価格設定の考え方 |
+| [docs/improvement_ideas.md](docs/improvement_ideas.md) | 商品改善案の検討(優先度別) |
+
 ## 想定ユーザー
 
 - Instagram運用の担当者がいない、または兼任で手が回っていない個人経営〜小規模チェーンの飲食店オーナー・店長
@@ -27,7 +34,8 @@
 
 ## 今後の進め方(TODO)
 
-- [ ] note / Gumroad 出品用の商品紹介文・タイトル・価格設定の検討
-- [ ] 商品の改善案の洗い出し(プロンプトの精度向上、テンプレートの追加など)
+- [x] note / Gumroad 出品用の商品紹介文・タイトル・価格設定の検討 → [marketing/note_gumroad_listing.md](marketing/note_gumroad_listing.md)
+- [x] 商品の改善案の洗い出し(プロンプトの精度向上、テンプレートの追加など) → [docs/improvement_ideas.md](docs/improvement_ideas.md)
 - [ ] サムネイル・カバー画像の方針検討
 - [ ] レビュー・実績が集まった際のアップデート方針
+- [ ] 優先度Aの改善案(業態別事例・短縮版プロンプト・投稿カレンダーテンプレート)を反映するか判断
