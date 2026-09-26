@@ -17,6 +17,7 @@
 | ファイル | 内容 |
 |---|---|
 | [marketing/note_gumroad_listing.md](marketing/note_gumroad_listing.md) | note / Gumroad 出品用の商品説明文・確定タイトル/価格・価格設定の考え方 |
+| [marketing/note_daily_habit_article.md](marketing/note_daily_habit_article.md) | note単体販売用の別記事(低価格・買い切りの入口コンテンツ+本体キットへの導線) |
 | [docs/improvement_ideas.md](docs/improvement_ideas.md) | 商品改善案の検討(優先度別) |
 | [docs/launch_checklist.md](docs/launch_checklist.md) | 出品ローンチチェックリスト(素材準備→出品→公開後対応まで) |
 
@@ -49,9 +50,11 @@
 - [ ] 実際のnote/Gumroadへの出品作業の実行(アカウントへのログインが必要なため、これ以降はご本人による実行が必要)
 - [ ] レビュー・実績が集まった際のアップデート方針
 - [ ] 優先度Aの改善案(業態別事例・短縮版プロンプト・投稿カレンダーテンプレート)を反映するか判断
+- [x] note単体で買い切り販売できる低価格の別記事(毎日15分ルーティン)を作成 → [marketing/note_daily_habit_article.md](marketing/note_daily_habit_article.md)
 
 ## 更新履歴
 
+- 2026-09-26: note単体販売用の別記事「毎日15分の投稿ルーティン」を新規作成。低価格(¥300目安)の入口コンテンツとして、本体キットへの導線を末尾に配置。継続的に売れる資産記事としての運用を想定
 - 2026-09-19: 出品文言を完全確定版に仕上げ(返金ポリシー・サポート窓口を明記、重複していた出品前チェックリストを`docs/launch_checklist.md`への参照に整理)。商品ファイル一式をzip化してユーザーに受け渡し。note/Gumroadへの実際の出品作業はアカウントログインが必要なため、`docs/launch_checklist.md`にその旨と手順を明記
 - 2026-09-19: サムネイル・プレビュー画像の詳細ラフ案をClaude Artifactのデザインキャンバスで作成(横長/正方形/プレビュー画像の3構成+配色・フォント指定)。Canva/Figma連携を確認したが本ワークスペースでは未接続のため、接続後に本格制作する方針を`docs/launch_checklist.md`に明記
 - 2026-09-19: ④のチェックリストの表現を軽く統一(業種→業態、看板メニューへの言及を追加)。出品タイトル・価格を確定し、出品ローンチチェックリスト(`docs/launch_checklist.md`)を新規作成
